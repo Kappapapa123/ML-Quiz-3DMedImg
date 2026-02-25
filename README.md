@@ -1,16 +1,13 @@
->📋  A template README.md for code accompanying a Machine Learning paper
-
 # My Paper Title
 
-This repository is the official implementation of [My Paper Title](https://arxiv.org/abs/2030.12345). 
-
->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
+This repository is the implementation of the coding test "Deep Learning for Automatic Cancer Segmentation and Classification in 3D CT Scans". 
 
 ## Requirements
 
 To install requirements:
 
 ```setup
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirements.txt
 ```
 
