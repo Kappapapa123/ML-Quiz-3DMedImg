@@ -173,8 +173,10 @@ Reports per-case running time, max GPU memory, and total GPU usage (area under G
 
 ![Qualitative segmentation examples](qualitative_report.png)
 
-**Top row:** Strong performance — whole pancreas (red) and lesion (green) match ground truth.  
-**Bottom row:** Failure cases — missed lesion (small volume) and incorrect lesion localization.
+Images in each row in order from left: original image, ground truth mask, and predicted mask.
+
+**Top two row:** Strong performance — whole pancreas (red) and lesion (green) match ground truth.  
+**Bottom two row:** Failure cases — missed lesion (small volume) and incorrect lesion localization.
 
 ---
 
