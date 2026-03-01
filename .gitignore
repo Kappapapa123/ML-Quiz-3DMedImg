@@ -1,0 +1,18 @@
+# nnU-Net data and results
+nnUNet_storage/
+nnUNet_raw/
+nnUNet_preprocessed/
+nnUNet_results/
+*.nii.gz
+*.b2nd
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+*.log
+
+# wandb runs
+wandb/
