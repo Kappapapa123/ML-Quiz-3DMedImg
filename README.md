@@ -60,7 +60,7 @@ The dataset consists of de-identified 3D pancreatic CT scans cropped to regions 
 |---|---|---|---|---|
 | Train | 252 | 62 | 106 | 84 |
 | Validation | 36 | 9 | 15 | 12 |
-| Test | 59 | — | — | — |
+| Test | 72 | — | — | — |
 
 No additional public datasets or pre-trained weights were used.
 
