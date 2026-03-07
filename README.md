@@ -3,7 +3,8 @@
 This repository contains the implementation for the coding test **"Deep Learning for Automatic Cancer Segmentation and Classification in 3D CT Scans"**. The method is a multi-task deep learning framework built upon [nnU-Net v2](https://github.com/MIC-DKFZ/nnUNet) that simultaneously performs pancreas/lesion segmentation and lesion subtype classification from 3D CT volumes.
 
 **Author:** Keishi Suzuki — University of Toronto  
-**Repository:** [https://github.com/Kappapapa123/ML-Quiz-3DMedImg](https://github.com/Kappapapa123/ML-Quiz-3DMedImg)
+**Repository:** [https://github.com/Kappapapa123/ML-Quiz-3DMedImg](https://github.com/Kappapapa123/ML-Quiz-3DMedImg)  
+**Report:** [Keishi_Suzuki_technical_report.pdf](Keishi_Suzuki_technical_report.pdf)
 
 ---
 
